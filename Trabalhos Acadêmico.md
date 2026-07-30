@@ -2,8 +2,6 @@
 
 Repositório com trabalhos e projetos desenvolvidos durante a graduação em Engenharia de Software.
 
-- Redes e Sistemas Distribuídos
-
 ## Disciplinas
 
 ### Análise e Modelagem de Sistemas
