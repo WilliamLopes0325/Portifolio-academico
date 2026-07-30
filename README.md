@@ -33,6 +33,4 @@ William Lopes
 
 🎓 Estudante de Engenharia de Software
 
-🔧 Técnico de Manutenção Industrial
-
-💻 Em transição para a área de Tecnologia
+🔧 Técnico de Manutenção Industrial e Tecnologia.
