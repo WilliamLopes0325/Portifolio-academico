@@ -1,4 +1,4 @@
-# Portfólio Acadêmico
+# Repositório Acadêmico
 
 Repositório contendo trabalhos desenvolvidos durante a graduação em Engenharia de Software.
 
